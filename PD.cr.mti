@@ -1,0 +1,579 @@
+{//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/wishbone_arbiter.v} {0 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/wishbone_arbiter.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module wishbone_arbiter
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/wishbone_arbiter.v(172): Cannot find `include file "memory_configuration.v" in directories:
+    C:/Modeltech_pe_edu_10.2c/ovm-2.1.2/../verilog_src/ovm-2.1.2/src, C:/Modeltech_pe_edu_10.2c/uvm-1.1d/../verilog_src/uvm-1.1d/src
+
+} {4.0 5.0} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v} {0 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(43): Cannot find `include file "system_config_defines.v" in directories:
+    C:/Modeltech_pe_edu_10.2c/ovm-2.1.2/../verilog_src/ovm-2.1.2/src, C:/Modeltech_pe_edu_10.2c/uvm-1.1d/../verilog_src/uvm-1.1d/src
+-- Compiling module tb
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(50): Cannot find `include file "system_functions.v" in directories:
+    C:/Modeltech_pe_edu_10.2c/ovm-2.1.2/../verilog_src/ovm-2.1.2/src, C:/Modeltech_pe_edu_10.2c/uvm-1.1d/../verilog_src/uvm-1.1d/src
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(51): Cannot find `include file "memory_configuration.v" in directories:
+    C:/Modeltech_pe_edu_10.2c/ovm-2.1.2/../verilog_src/ovm-2.1.2/src, C:/Modeltech_pe_edu_10.2c/uvm-1.1d/../verilog_src/uvm-1.1d/src
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(309): (vlog-2163) Macro `BOOT_MEM_FILE is undefined.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(311): (vlog-2163) Macro `BOOT_MEM_FILE is undefined.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(315): (vlog-2163) Macro `BOOT_MEM_FILE is undefined.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(334): (vlog-2163) Macro `BOOT_MEM_FILE is undefined.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(350): (vlog-2730) Undefined variable: 'BOOT_MSB'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(367): (vlog-2163) Macro `AMBER_LOG_FILE is undefined.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(367): (vlog-2163) Macro `AMBER_TEST_NAME is undefined.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(368): (vlog-2163) Macro `AMBER_LOG_FILE is undefined.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(476): Cannot find `include file "a23_localparams.v" in directories:
+    C:/Modeltech_pe_edu_10.2c/ovm-2.1.2/../verilog_src/ovm-2.1.2/src, C:/Modeltech_pe_edu_10.2c/uvm-1.1d/../verilog_src/uvm-1.1d/src
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(477): Cannot find `include file "a23_functions.v" in directories:
+    C:/Modeltech_pe_edu_10.2c/ovm-2.1.2/../verilog_src/ovm-2.1.2/src, C:/Modeltech_pe_edu_10.2c/uvm-1.1d/../verilog_src/uvm-1.1d/src
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(500): (vlog-2163) Macro `AMBER_TEST_NAME is undefined.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(502): (vlog-2163) Macro `AMBER_TEST_NAME is undefined.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(511): (vlog-2163) Macro `AMBER_TEST_NAME is undefined.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(513): (vlog-2163) Macro `AMBER_TEST_NAME is undefined.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(520): (vlog-2163) Macro `AMBER_TEST_NAME is undefined.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(522): (vlog-2163) Macro `AMBER_TEST_NAME is undefined.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(525): (vlog-2163) Macro `AMBER_TEST_NAME is undefined.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(527): (vlog-2163) Macro `AMBER_TEST_NAME is undefined.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(556): (vlog-2730) Undefined variable: 'FIRQ'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(557): (vlog-2730) Undefined variable: 'IRQ'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb.v(558): (vlog-2730) Undefined variable: 'SVC'.
+
+
+} {3.0 4.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0 30.0 31.0 32.0 33.0 34.0 35.0 36.0 37.0 38.0 39.0 40.0 41.0 42.0 43.0 44.0 45.0 46.0 47.0 48.0 49.0 50.0 51.0} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/global_defines.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/global_defines.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_wishbone.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_wishbone.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module a25_wishbone
+
+Top level modules:
+	a25_wishbone
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_dcache.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_dcache.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module a25_dcache
+
+Top level modules:
+	a25_dcache
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_register_bank.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_register_bank.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module a25_register_bank
+
+Top level modules:
+	a25_register_bank
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/debug_functions.v} {0 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/debug_functions.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/debug_functions.v(44): (vlog-2155) Global declarations are illegal in Verilog 2001 syntax.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/debug_functions.v(47): Verilog Compiler exiting
+
+} {3.0 4.0 5.0 6.0} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_multiply.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_multiply.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module a25_multiply
+
+Top level modules:
+	a25_multiply
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/memory_configuration.v} {0 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/memory_configuration.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/memory_configuration.v(44): (vlog-2155) Global declarations are illegal in Verilog 2001 syntax.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/memory_configuration.v(64): (vlog-2730) Undefined variable: 'BOOT_BASE'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/memory_configuration.v(65): (vlog-2730) Undefined variable: 'BOOT_MSB'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/memory_configuration.v(73): (vlog-2730) Undefined variable: 'BOOT_MSB'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/memory_configuration.v(73): Verilog Compiler exiting
+
+} {3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v} {0 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module interrupt_controller
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v(72): Cannot find `include file "register_addresses.v" in directories:
+    C:/Modeltech_pe_edu_10.2c/ovm-2.1.2/../verilog_src/ovm-2.1.2/src, C:/Modeltech_pe_edu_10.2c/uvm-1.1d/../verilog_src/uvm-1.1d/src
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v(175): (vlog-2730) Undefined variable: 'AMBER_IC_IRQ0_ENABLESET'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v(176): (vlog-2730) Undefined variable: 'AMBER_IC_IRQ0_ENABLECLR'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v(177): (vlog-2730) Undefined variable: 'AMBER_IC_FIRQ0_ENABLESET'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v(178): (vlog-2730) Undefined variable: 'AMBER_IC_FIRQ0_ENABLECLR'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v(180): (vlog-2730) Undefined variable: 'AMBER_IC_INT_SOFTSET_0'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v(181): (vlog-2730) Undefined variable: 'AMBER_IC_INT_SOFTCLEAR_0'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v(183): (vlog-2730) Undefined variable: 'AMBER_IC_IRQ1_ENABLESET'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v(184): (vlog-2730) Undefined variable: 'AMBER_IC_IRQ1_ENABLECLR'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v(185): (vlog-2730) Undefined variable: 'AMBER_IC_FIRQ1_ENABLESET'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v(186): (vlog-2730) Undefined variable: 'AMBER_IC_FIRQ1_ENABLECLR'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v(188): (vlog-2730) Undefined variable: 'AMBER_IC_INT_SOFTSET_1'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v(189): (vlog-2730) Undefined variable: 'AMBER_IC_INT_SOFTCLEAR_1'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v(202): (vlog-2730) Undefined variable: 'AMBER_IC_IRQ0_RAWSTAT'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v(203): (vlog-2730) Undefined variable: 'AMBER_IC_IRQ0_STATUS'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v(204): (vlog-2730) Undefined variable: 'AMBER_IC_FIRQ0_RAWSTAT'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v(205): (vlog-2730) Undefined variable: 'AMBER_IC_FIRQ0_STATUS'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v(212): (vlog-2730) Undefined variable: 'AMBER_IC_IRQ1_RAWSTAT'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v(213): (vlog-2730) Undefined variable: 'AMBER_IC_IRQ1_STATUS'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v(214): (vlog-2730) Undefined variable: 'AMBER_IC_FIRQ1_RAWSTAT'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/interrupt_controller.v(215): (vlog-2730) Undefined variable: 'AMBER_IC_FIRQ1_STATUS'.
+
+
+} {4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0 30.0 31.0 32.0 33.0 34.0 35.0 36.0 37.0 38.0 39.0 40.0 41.0 42.0 43.0 44.0 45.0} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_core.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_core.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module a25_core
+
+Top level modules:
+	a25_core
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v} {0 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(45): (vlog-2155) Global declarations are illegal in Verilog 2001 syntax.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(50): (vlog-2730) Undefined variable: 'SWAP'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(51): (vlog-2730) Undefined variable: 'MULT'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(52): (vlog-2730) Undefined variable: 'REGOP'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(53): (vlog-2730) Undefined variable: 'TRANS'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(54): (vlog-2730) Undefined variable: 'MTRANS'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(55): (vlog-2730) Undefined variable: 'BRANCH'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(56): (vlog-2730) Undefined variable: 'CODTRANS'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(57): (vlog-2730) Undefined variable: 'COREGOP'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(58): (vlog-2730) Undefined variable: 'CORTRANS'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(59): (vlog-2730) Undefined variable: 'SWI'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(123): (vlog-2730) Undefined variable: 'SVC'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(123): (vlog-2730) Undefined variable: 'OH_SVC'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(124): (vlog-2730) Undefined variable: 'IRQ'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(124): (vlog-2730) Undefined variable: 'OH_IRQ'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(125): (vlog-2730) Undefined variable: 'FIRQ'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(125): (vlog-2730) Undefined variable: 'OH_FIRQ'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(126): (vlog-2730) Undefined variable: 'OH_USR'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(137): (vlog-2730) Undefined variable: 'USR'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(138): (vlog-2730) Undefined variable: 'SVC'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(139): (vlog-2730) Undefined variable: 'IRQ'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(140): (vlog-2730) Undefined variable: 'FIRQ'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(171): (vlog-2730) Undefined variable: 'AL'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(172): (vlog-2730) Undefined variable: 'EQ'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(173): (vlog-2730) Undefined variable: 'NE'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(174): (vlog-2730) Undefined variable: 'CS'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(175): (vlog-2730) Undefined variable: 'CC'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(176): (vlog-2730) Undefined variable: 'MI'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(177): (vlog-2730) Undefined variable: 'PL'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(178): (vlog-2730) Undefined variable: 'VS'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(179): (vlog-2730) Undefined variable: 'VC'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(181): (vlog-2730) Undefined variable: 'HI'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(182): (vlog-2730) Undefined variable: 'LS'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(184): (vlog-2730) Undefined variable: 'GE'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(185): (vlog-2730) Undefined variable: 'LT'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(187): (vlog-2730) Undefined variable: 'GT'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_functions.v(188): (vlog-2730) Undefined variable: 'LE'.
+
+
+} {3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0 30.0 31.0 32.0 33.0 34.0 35.0 36.0 37.0 38.0 39.0 40.0 41.0 42.0 43.0 44.0 45.0 46.0 47.0 48.0 49.0 50.0 51.0 52.0 53.0 54.0 55.0 56.0 57.0 58.0 59.0 60.0 61.0 62.0 63.0 64.0 65.0 66.0 67.0 68.0 69.0 70.0 71.0 72.0 73.0 74.0 75.0 76.0} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_alu.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_alu.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module a25_alu
+
+Top level modules:
+	a25_alu
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/register_addresses.v} {0 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/register_addresses.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/register_addresses.v(49): (vlog-2155) Global declarations are illegal in Verilog 2001 syntax.
+
+
+} {3.0 4.0} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/ethmac_wb.v} {0 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/ethmac_wb.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module ethmac_wb
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/ethmac_wb.v(95): Cannot find `include file "system_functions.v" in directories:
+    C:/Modeltech_pe_edu_10.2c/ovm-2.1.2/../verilog_src/ovm-2.1.2/src, C:/Modeltech_pe_edu_10.2c/uvm-1.1d/../verilog_src/uvm-1.1d/src
+
+} {4.0 5.0} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_decompile.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_decompile.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module a25_decompile
+
+Top level modules:
+	a25_decompile
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_coprocessor.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_coprocessor.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module a25_coprocessor
+
+Top level modules:
+	a25_coprocessor
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_config_defines.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_config_defines.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/main_mem.v} {0 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/main_mem.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module main_mem
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/main_mem.v(65): Cannot find `include file "memory_configuration.v" in directories:
+    C:/Modeltech_pe_edu_10.2c/ovm-2.1.2/../verilog_src/ovm-2.1.2/src, C:/Modeltech_pe_edu_10.2c/uvm-1.1d/../verilog_src/uvm-1.1d/src
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/main_mem.v(67): (vlog-2730) Undefined variable: 'MAIN_MSB'.
+
+
+} {4.0 5.0 6.0 7.0} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/dumpvcd.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/dumpvcd.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module dumpvcd
+
+Top level modules:
+	dumpvcd
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v} {0 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(54): Cannot find `include file "system_config_defines.v" in directories:
+    C:/Modeltech_pe_edu_10.2c/ovm-2.1.2/../verilog_src/ovm-2.1.2/src, C:/Modeltech_pe_edu_10.2c/uvm-1.1d/../verilog_src/uvm-1.1d/src
+-- Compiling module uart
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(88): Cannot find `include file "register_addresses.v" in directories:
+    C:/Modeltech_pe_edu_10.2c/ovm-2.1.2/../verilog_src/ovm-2.1.2/src, C:/Modeltech_pe_edu_10.2c/uvm-1.1d/../verilog_src/uvm-1.1d/src
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(133): (vlog-2163) Macro `AMBER_CLK_DIVIDER is undefined.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(133): near ";": syntax error, unexpected ';'
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(138): (vlog-2730) Undefined variable: 'CLK_FREQ'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(258): (vlog-2730) Undefined variable: 'AMBER_UART_DR'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(323): (vlog-2730) Undefined variable: 'AMBER_UART_ICR'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(725): (vlog-2730) Undefined variable: 'AMBER_UART_RSR'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(727): (vlog-2730) Undefined variable: 'AMBER_UART_LCRH'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(729): (vlog-2730) Undefined variable: 'AMBER_UART_LCRM'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(731): (vlog-2730) Undefined variable: 'AMBER_UART_LCRL'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(733): (vlog-2730) Undefined variable: 'AMBER_UART_CR'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(744): (vlog-2730) Undefined variable: 'AMBER_UART_CID0'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(745): (vlog-2730) Undefined variable: 'AMBER_UART_CID1'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(746): (vlog-2730) Undefined variable: 'AMBER_UART_CID2'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(747): (vlog-2730) Undefined variable: 'AMBER_UART_CID3'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(748): (vlog-2730) Undefined variable: 'AMBER_UART_PID0'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(749): (vlog-2730) Undefined variable: 'AMBER_UART_PID1'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(750): (vlog-2730) Undefined variable: 'AMBER_UART_PID2'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(751): (vlog-2730) Undefined variable: 'AMBER_UART_PID3'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(766): (vlog-2730) Undefined variable: 'AMBER_UART_FR'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/uart.v(777): (vlog-2730) Undefined variable: 'AMBER_UART_IIR'.
+
+
+} {3.0 4.0 6.0 7.0 8.0 9.0 10.0 12.0 13.0 14.0 15.0 16.0 17.0 18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0 30.0 31.0 32.0 33.0 34.0 35.0 36.0 37.0 38.0 39.0 40.0 41.0 42.0 43.0 44.0 45.0 46.0} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/system_functions.v} {0 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/system_functions.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/system_functions.v(45): (vlog-2155) Global declarations are illegal in Verilog 2001 syntax.
+
+
+} {3.0 4.0} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/boot_mem128.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/boot_mem128.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module boot_mem128
+
+Top level modules:
+	boot_mem128
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v} {0 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module test_module
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(67): Cannot find `include file "register_addresses.v" in directories:
+    C:/Modeltech_pe_edu_10.2c/ovm-2.1.2/../verilog_src/ovm-2.1.2/src, C:/Modeltech_pe_edu_10.2c/uvm-1.1d/../verilog_src/uvm-1.1d/src
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(135): (vlog-2730) Undefined variable: 'AMBER_TEST_STATUS'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(136): (vlog-2730) Undefined variable: 'AMBER_TEST_FIRQ_TIMER'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(137): (vlog-2730) Undefined variable: 'AMBER_TEST_IRQ_TIMER'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(138): (vlog-2730) Undefined variable: 'AMBER_TEST_RANDOM_NUM'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(143): (vlog-2730) Undefined variable: 'AMBER_TEST_RANDOM_NUM00'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(144): (vlog-2730) Undefined variable: 'AMBER_TEST_RANDOM_NUM01'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(145): (vlog-2730) Undefined variable: 'AMBER_TEST_RANDOM_NUM02'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(146): (vlog-2730) Undefined variable: 'AMBER_TEST_RANDOM_NUM03'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(147): (vlog-2730) Undefined variable: 'AMBER_TEST_RANDOM_NUM04'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(148): (vlog-2730) Undefined variable: 'AMBER_TEST_RANDOM_NUM05'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(149): (vlog-2730) Undefined variable: 'AMBER_TEST_RANDOM_NUM06'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(150): (vlog-2730) Undefined variable: 'AMBER_TEST_RANDOM_NUM07'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(151): (vlog-2730) Undefined variable: 'AMBER_TEST_RANDOM_NUM08'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(152): (vlog-2730) Undefined variable: 'AMBER_TEST_RANDOM_NUM09'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(153): (vlog-2730) Undefined variable: 'AMBER_TEST_RANDOM_NUM10'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(154): (vlog-2730) Undefined variable: 'AMBER_TEST_RANDOM_NUM11'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(155): (vlog-2730) Undefined variable: 'AMBER_TEST_RANDOM_NUM12'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(156): (vlog-2730) Undefined variable: 'AMBER_TEST_RANDOM_NUM13'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(157): (vlog-2730) Undefined variable: 'AMBER_TEST_RANDOM_NUM14'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(158): (vlog-2730) Undefined variable: 'AMBER_TEST_RANDOM_NUM15'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(161): (vlog-2730) Undefined variable: 'AMBER_TEST_UART_CONTROL'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(162): (vlog-2730) Undefined variable: 'AMBER_TEST_UART_STATUS'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(163): (vlog-2730) Undefined variable: 'AMBER_TEST_UART_TXD'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(166): (vlog-2730) Undefined variable: 'AMBER_TEST_SIM_CTRL'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(167): (vlog-2730) Undefined variable: 'AMBER_TEST_MEM_CTRL'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(169): (vlog-2730) Undefined variable: 'AMBER_TEST_CYCLES'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(170): (vlog-2730) Undefined variable: 'AMBER_TEST_LED'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/test_module.v(171): (vlog-2730) Undefined variable: 'AMBER_TEST_PHY_RST'.
+
+
+} {4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0 30.0 31.0 32.0 33.0 34.0 35.0 36.0 37.0 38.0 39.0 40.0 41.0 42.0 43.0 44.0 45.0 46.0 47.0 48.0 49.0 50.0 51.0 52.0 53.0 54.0 55.0 56.0 57.0 58.0 59.0 60.0 61.0} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_barrel_shift.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_barrel_shift.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module a25_barrel_shift
+
+Top level modules:
+	a25_barrel_shift
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/afifo.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/afifo.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module afifo
+
+Top level modules:
+	afifo
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/timer_module.v} {0 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/timer_module.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module timer_module
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/timer_module.v(64): Cannot find `include file "register_addresses.v" in directories:
+    C:/Modeltech_pe_edu_10.2c/ovm-2.1.2/../verilog_src/ovm-2.1.2/src, C:/Modeltech_pe_edu_10.2c/uvm-1.1d/../verilog_src/uvm-1.1d/src
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/timer_module.v(137): (vlog-2730) Undefined variable: 'AMBER_TM_TIMER0_CTRL'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/timer_module.v(138): (vlog-2730) Undefined variable: 'AMBER_TM_TIMER1_CTRL'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/timer_module.v(139): (vlog-2730) Undefined variable: 'AMBER_TM_TIMER2_CTRL'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/timer_module.v(145): (vlog-2730) Undefined variable: 'AMBER_TM_TIMER0_LOAD'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/timer_module.v(179): (vlog-2730) Undefined variable: 'AMBER_TM_TIMER1_LOAD'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/timer_module.v(214): (vlog-2730) Undefined variable: 'AMBER_TM_TIMER2_LOAD'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/timer_module.v(248): (vlog-2730) Undefined variable: 'AMBER_TM_TIMER0_CLR'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/timer_module.v(254): (vlog-2730) Undefined variable: 'AMBER_TM_TIMER1_CLR'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/timer_module.v(260): (vlog-2730) Undefined variable: 'AMBER_TM_TIMER2_CLR'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/timer_module.v(296): (vlog-2730) Undefined variable: 'AMBER_TM_TIMER0_VALUE'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/timer_module.v(297): (vlog-2730) Undefined variable: 'AMBER_TM_TIMER1_VALUE'.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/timer_module.v(298): (vlog-2730) Undefined variable: 'AMBER_TM_TIMER2_VALUE'.
+
+
+} {4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_localparams.v} {0 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_localparams.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_localparams.v(44): (vlog-2155) Global declarations are illegal in Verilog 2001 syntax.
+
+
+} {3.0 4.0} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_mem.v} {0 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_mem.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module a25_mem
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_mem.v(81): Cannot find `include file "memory_configuration.v" in directories:
+    C:/Modeltech_pe_edu_10.2c/ovm-2.1.2/../verilog_src/ovm-2.1.2/src, C:/Modeltech_pe_edu_10.2c/uvm-1.1d/../verilog_src/uvm-1.1d/src
+
+} {4.0 5.0} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/system_config_defines.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/system_config_defines.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/boot_mem32.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/boot_mem32.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module boot_mem32
+
+Top level modules:
+	boot_mem32
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/eth_test.v} {0 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/eth_test.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module eth_test
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/eth_test.v(64): Cannot find `include file "system_functions.v" in directories:
+    C:/Modeltech_pe_edu_10.2c/ovm-2.1.2/../verilog_src/ovm-2.1.2/src, C:/Modeltech_pe_edu_10.2c/uvm-1.1d/../verilog_src/uvm-1.1d/src
+
+} {4.0 5.0} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/ddr3_afifo.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/ddr3_afifo.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module ddr3_afifo
+
+Top level modules:
+	ddr3_afifo
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/wb_ddr3_bridge.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/wb_ddr3_bridge.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module wb_ddr3_bridge
+
+Top level modules:
+	wb_ddr3_bridge
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/wb_xs6_ddr3_bridge.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/wb_xs6_ddr3_bridge.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module wb_xs6_ddr3_bridge
+
+Top level modules:
+	wb_xs6_ddr3_bridge
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb_uart.v} {0 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb_uart.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb_uart.v(42): Cannot find `include file "system_config_defines.v" in directories:
+    C:/Modeltech_pe_edu_10.2c/ovm-2.1.2/../verilog_src/ovm-2.1.2/src, C:/Modeltech_pe_edu_10.2c/uvm-1.1d/../verilog_src/uvm-1.1d/src
+-- Compiling module tb_uart
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb_uart.v(61): (vlog-2163) Macro `AMBER_UART_BAUD is undefined.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb_uart.v(61): near ";": syntax error, unexpected ';'
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/tb_uart.v(62): (vlog-2730) Undefined variable: 'UART_BAUD'.
+
+
+} {3.0 4.0 6.0 7.0 8.0 10.0} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_fetch.v} {0 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_fetch.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module a25_fetch
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_fetch.v(71): Cannot find `include file "memory_configuration.v" in directories:
+    C:/Modeltech_pe_edu_10.2c/ovm-2.1.2/../verilog_src/ovm-2.1.2/src, C:/Modeltech_pe_edu_10.2c/uvm-1.1d/../verilog_src/uvm-1.1d/src
+
+} {4.0 5.0} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_execute.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_execute.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module a25_execute
+
+Top level modules:
+	a25_execute
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_wishbone_buf.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_wishbone_buf.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module a25_wishbone_buf
+
+Top level modules:
+	a25_wishbone_buf
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_write_back.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_write_back.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module a25_write_back
+
+Top level modules:
+	a25_write_back
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/clocks_resets.v} {0 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/clocks_resets.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/clocks_resets.v(41): Cannot find `include file "system_config_defines.v" in directories:
+    C:/Modeltech_pe_edu_10.2c/ovm-2.1.2/../verilog_src/ovm-2.1.2/src, C:/Modeltech_pe_edu_10.2c/uvm-1.1d/../verilog_src/uvm-1.1d/src
+-- Compiling module clocks_resets
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/clocks_resets.v(288): (vlog-2163) Macro `AMBER_CLK_DIVIDER is undefined.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/clocks_resets.v(289): near "*": syntax error, unexpected '*'
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/clocks_resets.v(297): (vlog-2163) Macro `AMBER_CLK_DIVIDER is undefined.
+
+** Error: //vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/clocks_resets.v(298): near ")": syntax error, unexpected ')'
+
+} {3.0 4.0 6.0 7.0 8.0 10.0 11.0 12.0} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_decode.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_decode.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module a25_decode
+
+Top level modules:
+	a25_decode
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_shifter.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_shifter.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module a25_shifter
+
+Top level modules:
+	a25_shifter
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/system.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/system/system.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module system
+
+Top level modules:
+	system
+
+} {} {}} {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_icache.v} {1 {vlog -work work {//vmware-host/Shared Folders/Documents/Academics/PD/amber/trunk/hw/vlog/amber25/a25_icache.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module a25_icache
+
+Top level modules:
+	a25_icache
+
+} {} {}}
